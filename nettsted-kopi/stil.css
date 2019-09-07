@@ -1,0 +1,89 @@
+body{
+  background-color: lightblue;
+  margin: 0px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  font-size: 25px;
+}
+nav{
+  background-color: #289cc9;
+  border-style: solid;
+  border-width: 1px;
+
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  font-size: 40px;
+  padding: 20px;
+}
+main{
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+  }
+
+img{
+  width: 60px;
+  border-radius: 50%
+}
+
+
+#banner{
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+width: auto;
+height: 270px;
+border-radius: 0%
+
+
+}
+#brain{
+
+margin-left: auto;
+margin-right: auto;
+width: auto;
+height: 400px;
+border-radius: 30%
+
+
+
+
+}
+#liste{
+
+list-style-type: none;
+font-size: 70px;
+margin-top: 100px;
+
+margin-left:100px;
+margin-right:100px;
+/* <video src="videofile.ogg" autoplay poster="posterimage.jpg">
+<iframe src="https://player.twitch.tv/?channel=ttvistoleacake" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/ttvistoleacake?tt_content=text_link&tt_medium=live_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Se direktesendt video fra ttvistoleacake på www.twitch.tv</a>
+</video> */
+
+
+}
+#foot{
+  font-size: 25px;
+  color: white
+
+}
+
+/*body{
+
+
+  background-image: url("https://cdn2.unrealengine.com/Fortnite%2Flanding-pages%2Fseason-8-v2%2Fheader%2F08BR_UA_Landing-Page_BP-Launch_Keyart_Home-1920x1080-7d810184e17fc1c2d35397c00dde4ff8ae0140b9.jpg");
+image-resolution: from-image;
+  width: auto; */
+
+  %
+
+
+}
